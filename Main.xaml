@@ -119,6 +119,7 @@
           <InArgument x:TypeArguments="x:String">SG</InArgument>
           <InArgument x:TypeArguments="x:String">Indonesia</InArgument>
           <InArgument x:TypeArguments="x:String">Vietnam</InArgument>
+          <InArgument x:TypeArguments="x:String">South Korea</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
